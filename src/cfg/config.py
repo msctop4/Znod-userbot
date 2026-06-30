@@ -1,5 +1,6 @@
-api_id = 
-api_hash = " "
-session = "Znode"
-token_bot = " "
-inline_bot_uz = " "
+# src/cfg/config.py
+
+api_id = 12345678
+api_hash = ""
+session = "Znode" 
+dir_sess = "src/session/"
